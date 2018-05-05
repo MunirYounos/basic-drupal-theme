@@ -1,0 +1,12 @@
+name: Showcase Lite
+type: theme
+description: 'A flexible, recolorable theme with many regions and a responsive, mobile-first layout.'
+
+libraries:
+  - munir_travels/global-css
+  - munir_travels/global-js
+  
+# Information added by Drupal.org packaging script on 2017-12-18
+version: '0.01'
+core: '8.x'
+project: 'munir_travels'
